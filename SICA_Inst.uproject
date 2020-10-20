@@ -149,10 +149,6 @@
 		{
 			"Name": "SoundVisualizations",
 			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	]
 }
