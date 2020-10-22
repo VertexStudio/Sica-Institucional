@@ -149,6 +149,7 @@
 		{
 			"Name": "SoundVisualizations",
 			"Enabled": true
+<<<<<<< HEAD
 		},
 		{
 			"Name": "AllrightRig",
@@ -159,6 +160,8 @@
 			"Name": "DragonIKPlugin",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3f3985e9eb40414aaabf645791fa4916"
+=======
+>>>>>>> origin/verascenes
 		}
 	]
 }
